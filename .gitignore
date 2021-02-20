@@ -1,0 +1,14 @@
+/venv/
+/.env
+/downloads/*
+!/downloads/.keep
+/media/*
+!/media/.keep
+/sources/*
+!/sources/.keep
+
+###Intelliji Files###
+.idea
+*.iws
+*.iml
+*.ipr
